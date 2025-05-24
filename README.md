@@ -42,10 +42,10 @@ O enunciado do trabalho pode ser encontrado aqui:
 ├── utilitarios/   
 │   └── FileManager.java   
 └── menus/   
-├── MenuAluno.java   
-├── MenuAvaliacao.java   
-├── MenuDisciplina.java   
-└── MenuPrincipal.java
+|   ├── MenuAluno.java   
+|   ├── MenuAvaliacao.java   
+|   ├── MenuDisciplina.java   
+|   └── MenuPrincipal.java
 
 3. **Versão do JAVA utilizada:**  
    open JDK-24
