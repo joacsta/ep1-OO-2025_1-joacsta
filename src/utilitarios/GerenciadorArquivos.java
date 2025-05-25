@@ -9,7 +9,6 @@ import java.util.List;
 import java.util.Map;
 
 public class GerenciadorArquivos {
-    // Arquivos
     private static final String ARQUIVO_ALUNOS = "alunos.txt";
     private static final String ARQUIVO_DISCIPLINAS = "disciplinas.txt";
     private static final String ARQUIVO_TURMAS = "turmas.txt";

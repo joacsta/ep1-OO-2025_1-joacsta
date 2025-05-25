@@ -19,16 +19,36 @@ O enunciado do trabalho pode ser encontrado aqui:
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+   javac -d bin src/*.java src/modos/*.java src/controladores/*.java src/menus/*.java src/utilitarios/*.java
 
 2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+   java -cp bin Main
 
 3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
+   src/  
+   ├── Main.java  
+   ├── modos/  
+│   ├── Aluno.java   
+│   ├── AlunoEspecial.java   
+│   ├── AlunoNormal.java   
+│   ├── Disciplina.java   
+│   ├── FormaAvaliacao.java   
+│   ├── ResultadoAluno.java   
+│   └── Turma.java   
+├── controladores/   
+│   ├── AlunoController.java   
+│   ├── AvaliacaoController.java   
+│   └── DisciplinaController.java   
+├── utilitarios/   
+│   └── FileManager.java   
+└── menus/   
+├── MenuAluno.java   
+├── MenuAvaliacao.java   
+├── MenuDisciplina.java   
+└── MenuPrincipal.java
 
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+   open JDK-24
 
 ---
 
@@ -73,4 +93,4 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+- jvcosta1502@gmail.com

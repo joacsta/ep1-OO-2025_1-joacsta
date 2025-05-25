@@ -48,7 +48,10 @@ public class DisciplinaControlador {
                 disciplina,
                 solicitarDado(scanner, "Professor"),
                 solicitarDado(scanner, "Semestre"),
-                solicitarDado(scanner, "Forma de avaliação"),
+                solicitarDado(scanner, "Forma de avaliação: (Escolha entre 'METODO1' ou 'METODO2')\n\n" +
+                                                        "METODO1: ((P1 + P2 + P3 + L + S) / 5)\n" +
+                                                        "METODO2: ((P1 + P2*2 + P3*3 + L + S) / 8)\n\n"+
+                                                        "Escolha"),
                 solicitarDado(scanner, "Presencial? (S/N)").equalsIgnoreCase("S"),
                 solicitarDado(scanner, "Sala (deixe em branco se remota)"),
                 solicitarDado(scanner, "Horário"),
