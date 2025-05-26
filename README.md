@@ -54,7 +54,7 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Vídeo de Demonstração
 
-- [Inserir o link para o vídeo no YouTube/Drive aqui]
+- <https://drive.google.com/file/d/1sZrhwneWk8iA9vHSZKLKFP-wMwDp_Qnr/view?usp=sharing>
 
 ---
 
@@ -78,7 +78,7 @@ O enunciado do trabalho pode ser encontrado aqui:
 - [x] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
 - [ ] Lançamento de notas e controle de presença
 - [ ] Cálculo de média final e verificação de aprovação/reprovação
-- [x] Relatórios de desempenho acadêmico por aluno, turma e disciplina
+- [ ] Relatórios de desempenho acadêmico por aluno, turma e disciplina
 - [x] Persistência de dados em arquivos (.txt ou .csv)
 - [x] Tratamento de duplicidade de matrículas
 - [x] Uso de herança, polimorfismo e encapsulamento
@@ -87,7 +87,10 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+- Execução de programa feito via Terminal do Bash.
+- Quanto ao trabalho, considero que a complexidade foi elevada para um primeiro projeto de Orientação a Objetos, especialmente para alunos que estão tendo contato inicial com Java. Acredito que o prazo não foi suficiente para dedicar a atenção necessária ao desenvolvimento, dada a quantidade de funcionalidades exigidas.
+
+- Respeitosamente, em minha opinião, seria mais eficaz dividir os três menus em trabalhos distintos ao longo do semestre. Dessa forma, poderíamos priorizar a qualidade do código em vez de uma grande quantidade de implementações obrigatórias. No meu caso, confesso que fiquei um pouco insatisfeito com o resultado final, pois senti que poderia ter feito melhor com um escopo mais direcionado e um tempo mais bem distribuído.
 
 ---
 
